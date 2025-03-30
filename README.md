@@ -25,7 +25,7 @@ I'm a third-year **Computer Science and Intelligent Systems** student at **AGH U
 - 🖼️ **AI-Powered Background Removal**:
   - Currently developing a neural network for alpha matting, optimizing performance with **Cython**, and deploying the solution using **Docker**.
 - 🚗 **License Plate Recognition System**:
-  - Currently training a deep learning model to recognize license plate numbers in real time and integrating it into a parking lot management system.
+  - Current project through which I'm learning how to use AI models via APIs and integrating tham into a parking lot management system.
 
 ## 📬 Let's Connect!
 
